@@ -1,0 +1,1 @@
+Primer fichero de texto del nuevo repositorio de Git
