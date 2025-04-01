@@ -1,1 +1,2 @@
 Primer fichero de texto del nuevo repositorio de Git
+Añadimos una nueva línea a este fichero.
